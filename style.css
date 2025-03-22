@@ -33,7 +33,7 @@ header.sticky{
 }
 
 header .brand{
-    color: white;
+    color: black;
     font-size: 1.8em;
     font-weight: 700;
     text-transform: uppercase;
@@ -45,7 +45,7 @@ header .navigation{
 }
 
 header .navigation a{
-    color: white;
+    color: black;
     font-size: 1em;
     text-decoration: none;
     font-weight: 500;
@@ -82,7 +82,7 @@ section{
 }
 
 .main .content h2{
-    color: white;
+    color: black;
     font-size: 2em;
     font-weight: 500;
 }
@@ -156,7 +156,7 @@ section{
 }
 
 .media-icons a{
-    color: white;
+    color: blue;
     font-size: 25px;
     margin-right: 30px;
 }
